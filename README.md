@@ -1,5 +1,4 @@
 # Olá, eu sou o Felipe
-## Curiosidades: Felp5 é apenas uma abreviação para meu nome
 
 - 📖 Estou estudando Eletrônica Automotiva na Fatec
 - 👀 Atualmente procuro por oportunidades profissionais
