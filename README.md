@@ -3,11 +3,6 @@
 - 📖 Estou estudando Eletrônica Automotiva na Fatec
 - 👀 Atualmente procuro por oportunidades profissionais
 
-## Curiosidades: 
-- 🙂 Felp5 é apenas uma abreviação para meu nome
-- 🎸 Sou um guitarrista, costumo tocar nas horas vagas
-
-
 
  <div>
   <a href="https://github.com/FeLp5">
@@ -33,3 +28,9 @@
   ![Snake animation](https://github.com/FeLp5/FeLp5/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ ## Curiosidades: 
+- 🙂 Felp5 é apenas uma abreviação para meu nome
+- 🎸 Sou um guitarrista, costumo tocar nas horas vagas
+
+
