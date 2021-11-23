@@ -30,7 +30,6 @@
 </div>
  
  ## Curiosidades: 
-- 🙂 Felp5 é apenas uma abreviação para meu nome
 - 🎸 Sou um guitarrista, costumo tocar nas horas vagas
 
 
