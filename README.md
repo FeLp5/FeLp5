@@ -12,7 +12,6 @@
   
 <div style="display: inline_block"><br>
  <img  align="center" alt="FeLp5-C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
- <img align="center"  alt="FeLp5-HTML" height="50" width="50"  src="">
  <img align="center" alt="FeLp5-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>  
   
