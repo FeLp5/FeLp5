@@ -11,9 +11,9 @@
 </div>
   
 <div style="display: inline_block"><br>
- <img  align="center" alt="FeL5-C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
- <img align="center"  alt="FeL5-Java" height="50" width="50"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
- <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img  align="center" alt="FeLp5-C" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+ <img align="center"  alt="FeLp5-HTML" height="50" width="50"  src="" alt="HTML-Icon">
+ <img align="center" alt="FeLp5-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>  
   
   
@@ -21,7 +21,6 @@
   
 <div> 
   <a href="https://www.linkedin.com/in/felipe-alves-leite-da-silva-332b31218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
@@ -31,5 +30,6 @@
  
  ## Curiosidades: 
 - 🎸 Sou um guitarrista, costumo tocar nas horas vagas
+- 🎸 I'm a guitarist, i like to play when free time
 
 
